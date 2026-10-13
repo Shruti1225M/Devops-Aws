@@ -9,7 +9,7 @@
 #This script will report the AWS resourcr Usage
 ###############################	
 
-set +x
+set -x
 
 #Aws S3
 #AWS EC2
